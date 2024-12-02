@@ -1,0 +1,70 @@
+1)Write a C program to print following pattern
+	*
+	*	*
+	*	*	*
+	*	*	*	*
+2)Write a C program to print following pattern
+	*	*	*	*
+	*	*	*
+	*	*
+	*
+3)Write a C program to print following pattern
+*
+*	*	*
+*	*	*	*	*
+*	*	*	*	*	*	*
+4)Write a C program to print following pattern
+1
+12
+123
+1234
+
+5)Write a C program to print following pattern
+1234
+123
+12
+1
+
+6)Write a C program to print following pattern
+1
+22
+333
+4444
+7)Write a C program to print following pattern
+4444
+333
+22
+1
+8)Write a C program to print following pattern
+1
+2  3
+4  5  6
+7  8  9	10
+9)Write a C program to print following pattern
+A
+AB
+ABC
+10)Write a C program to print following pattern
+ABC
+AB
+A
+11)Write a C program to print following pattern
+1
+01
+101
+0101
+
+12)Write a C program to print following pattern
+*
+**
+***
+****
+**
+*
+13)Write a C program to print following pattern
+		*
+	*	*	*
+*	*	*	*	*
+
+
+
